@@ -3,7 +3,7 @@
 
 # shiny-elbow-kmeans
 
-Want to find structure in your data?
+Want to find structure in your data? [Try this web app!](http://shiny.janfreyberg.com/elbow-kmeans)
 
 ### Step 1: Enter your data
 There is a text field where you can enter your univariate (one variable only!) data.
